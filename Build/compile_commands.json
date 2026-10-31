@@ -1,0 +1,182 @@
+[
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\Source\\main.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\Source\\main.cpp",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/Source/main.cpp",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/Source/main.cpp.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\Source\\Bionic\\Creature\\microbe.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\Source\\Bionic\\Creature\\microbe.cpp",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/Source/Bionic/Creature/microbe.cpp",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/Source/Bionic/Creature/microbe.cpp.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\imgui.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\imgui.cpp",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/imgui/imgui.cpp",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/External/imgui/imgui.cpp.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\imgui_draw.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\imgui_draw.cpp",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/imgui/imgui_draw.cpp",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/External/imgui/imgui_draw.cpp.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\imgui_tables.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\imgui_tables.cpp",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/imgui/imgui_tables.cpp",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/External/imgui/imgui_tables.cpp.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\imgui_widgets.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\imgui_widgets.cpp",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/imgui/imgui_widgets.cpp",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/External/imgui/imgui_widgets.cpp.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\imgui_demo.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\imgui_demo.cpp",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/imgui/imgui_demo.cpp",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/External/imgui/imgui_demo.cpp.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\backends\\imgui_impl_glfw.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\backends\\imgui_impl_glfw.cpp",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/imgui/backends/imgui_impl_glfw.cpp",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/External/imgui/backends/imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\backends\\imgui_impl_opengl3.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\backends\\imgui_impl_opengl3.cpp",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/imgui/backends/imgui_impl_opengl3.cpp",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/External/imgui/backends/imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\context.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/context.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/context.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\init.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/init.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/init.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\input.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/input.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/input.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\monitor.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/monitor.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\platform.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/platform.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/platform.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\vulkan.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/vulkan.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\window.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/window.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/window.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\egl_context.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/egl_context.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\osmesa_context.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/osmesa_context.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\null_init.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/null_init.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\null_monitor.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/null_monitor.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\null_window.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/null_window.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\null_joystick.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/null_joystick.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\win32_module.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/win32_module.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\win32_time.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/win32_time.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\win32_thread.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/win32_thread.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\win32_init.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/win32_init.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\win32_joystick.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/win32_joystick.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\win32_monitor.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/win32_monitor.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\win32_window.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/win32_window.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj"
+},
+{
+  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src -IN:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src -O0 -std=c99 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -o External\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\glfw\\src\\wgl_context.c",
+  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/src/wgl_context.c",
+  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/External/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
+}
+]
