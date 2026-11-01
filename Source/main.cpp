@@ -6,6 +6,11 @@
 #include "Bionic/Creature/microbe.hpp"
 #include "World/world.hpp"
 
+void Update()
+{
+    
+}
+
 int main()
 {
     // Raylib things
@@ -15,22 +20,25 @@ int main()
     SetTargetFPS(60);
 
     Simulation::World world;
+    Simulation::World::Bionic_Manager bionic_manager;
 
-    world.Add_Microbe();
-    world.Add_Microbe();
+    bionic_manager.Add_Microbe();
+    bionic_manager.Add_Microbe();
 
-    float microbe_position_x = world.microbes[0].spatial_properties.position.x = 200;
-    float microbe_position_y = world.microbes[0].spatial_properties.position.y = 200;
-    float microbe_2_position_x = world.microbes[1].spatial_properties.position.x = 500;
-    float microbe_2_position_y = world.microbes[1].spatial_properties.position.y = 500;
+    float microbe_position_x = bionic_manager.microbes[0].spatial_properties.position.x = 200;
+    float microbe_position_y = bionic_manager.microbes[0].spatial_properties.position.y = 200;
+    float microbe_2_position_x = bionic_manager.microbes[1].spatial_properties.position.x = 500;
+    float microbe_2_position_y = bionic_manager.microbes[1].spatial_properties.position.y = 500;
 
     while (!WindowShouldClose())
     {
+        world.Update(GetFrameTime());
+        /*
         BeginDrawing();
-            ClearBackground(BLACK);
-            DrawCircle(static_cast<int>(microbe_position_x), static_cast<int>(microbe_position_y), 10, WHITE);
-            DrawCircle(static_cast<int>(microbe_2_position_x), static_cast<int>(microbe_2_position_y), 10, WHITE);
+        ClearBackground(BLACK);
         EndDrawing();
+        */
+        
     }
 
     CloseWindow();

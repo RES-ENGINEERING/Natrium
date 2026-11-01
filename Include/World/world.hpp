@@ -9,8 +9,13 @@ namespace Simulation
     class World
     {
         public:
-            std::vector<Creature::Bionic::Microbe> microbes;
+            class Bionic_Manager
+            {
+                public:
+                    std::vector<Creature::Bionic::Microbe> microbes;
+                    void Add_Microbe();
+            };
 
-            void Add_Microbe();
+        void World::Update(float delta_time);
     };
 }

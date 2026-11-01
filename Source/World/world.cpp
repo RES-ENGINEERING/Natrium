@@ -6,8 +6,10 @@
 
 namespace Simulation
 {
-    void World::Add_Microbe()
+    void World::Bionic_Manager::Add_Microbe()
     {
-        microbes.emplace_back();
+        World::Bionic_Manager::microbes.emplace_back();
     }
+
+    void World::Update(float delta_time) {}
 }
