@@ -16,8 +16,8 @@ int main()
 
     Simulation::World world;
 
-    world.Create_Microbe();
-    world.Create_Microbe();
+    world.Add_Microbe();
+    world.Add_Microbe();
 
     float microbe_position_x = world.microbes[0].spatial_properties.position.x = 200;
     float microbe_position_y = world.microbes[0].spatial_properties.position.y = 200;

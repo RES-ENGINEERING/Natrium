@@ -11,6 +11,6 @@ namespace Simulation
         public:
             std::vector<Creature::Bionic::Microbe> microbes;
 
-            void Create_Microbe();
+            void Add_Microbe();
     };
 }

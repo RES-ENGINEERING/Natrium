@@ -6,7 +6,7 @@
 
 namespace Simulation
 {
-    void World::Create_Microbe()
+    void World::Add_Microbe()
     {
         microbes.emplace_back();
     }
