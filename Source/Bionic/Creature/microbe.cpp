@@ -7,8 +7,5 @@
 
 namespace Creature::Bionic::Microbe
 {
-    float Spatial_Properties::Get_Speed() const
-    {
-        return std::hypot(velocity.x, velocity.y);
-    }
+    
 }

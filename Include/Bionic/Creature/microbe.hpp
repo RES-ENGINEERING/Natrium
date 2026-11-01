@@ -37,7 +37,5 @@ namespace Creature::Bionic::Microbe
 
         float rotation = 0.0;
         float angular_velocity = 0.0;
-
-        float Get_Speed() const;
     };
 }

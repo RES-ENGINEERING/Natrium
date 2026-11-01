@@ -1,67 +1,61 @@
 [
 {
   "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
-  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\Source\\main.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\Source\\main.cpp",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\Source\\main.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\Source\\main.cpp",
   "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/Source/main.cpp",
   "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/Source/main.cpp.obj"
 },
 {
   "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
-  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\Source\\Bionic\\Creature\\microbe.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\Source\\Bionic\\Creature\\microbe.cpp",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\Source\\Bionic\\Creature\\microbe.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\Source\\Bionic\\Creature\\microbe.cpp",
   "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/Source/Bionic/Creature/microbe.cpp",
   "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/Source/Bionic/Creature/microbe.cpp.obj"
 },
 {
   "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
-  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\Source\\Math\\Vector_2\\vector_2.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\Source\\Math\\Vector_2\\vector_2.cpp",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\Source\\Math\\Vector_2\\vector_2.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\Source\\Math\\Vector_2\\vector_2.cpp",
   "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/Source/Math/Vector_2/vector_2.cpp",
   "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/Source/Math/Vector_2/vector_2.cpp.obj"
 },
 {
   "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
-  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\Source\\WIndow_Manager\\window_mngr.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\Source\\WIndow_Manager\\window_mngr.cpp",
-  "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/Source/WIndow_Manager/window_mngr.cpp",
-  "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/Source/WIndow_Manager/window_mngr.cpp.obj"
-},
-{
-  "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
-  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\imgui.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\imgui.cpp",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\imgui.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\imgui.cpp",
   "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/imgui/imgui.cpp",
   "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/External/imgui/imgui.cpp.obj"
 },
 {
   "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
-  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\imgui_draw.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\imgui_draw.cpp",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\imgui_draw.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\imgui_draw.cpp",
   "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/imgui/imgui_draw.cpp",
   "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/External/imgui/imgui_draw.cpp.obj"
 },
 {
   "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
-  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\imgui_tables.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\imgui_tables.cpp",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\imgui_tables.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\imgui_tables.cpp",
   "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/imgui/imgui_tables.cpp",
   "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/External/imgui/imgui_tables.cpp.obj"
 },
 {
   "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
-  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\imgui_widgets.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\imgui_widgets.cpp",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\imgui_widgets.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\imgui_widgets.cpp",
   "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/imgui/imgui_widgets.cpp",
   "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/External/imgui/imgui_widgets.cpp.obj"
 },
 {
   "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
-  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\imgui_demo.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\imgui_demo.cpp",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\imgui_demo.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\imgui_demo.cpp",
   "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/imgui/imgui_demo.cpp",
   "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/External/imgui/imgui_demo.cpp.obj"
 },
 {
   "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
-  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\backends\\imgui_impl_glfw.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\backends\\imgui_impl_glfw.cpp",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\backends\\imgui_impl_glfw.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\backends\\imgui_impl_glfw.cpp",
   "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/imgui/backends/imgui_impl_glfw.cpp",
   "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/External/imgui/backends/imgui_impl_glfw.cpp.obj"
 },
 {
   "directory": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build",
-  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\backends\\imgui_impl_opengl3.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\backends\\imgui_impl_opengl3.cpp",
+  "command": "N:\\User_Program_Files\\LLVM\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Natrium.dir\\External\\imgui\\backends\\imgui_impl_opengl3.cpp.obj -c N:\\User_Documents\\Coding\\Git_Repositories\\Natrium\\External\\imgui\\backends\\imgui_impl_opengl3.cpp",
   "file": "N:/User_Documents/Coding/Git_Repositories/Natrium/External/imgui/backends/imgui_impl_opengl3.cpp",
   "output": "N:/User_Documents/Coding/Git_Repositories/Natrium/Build/CMakeFiles/Natrium.dir/External/imgui/backends/imgui_impl_opengl3.cpp.obj"
 },

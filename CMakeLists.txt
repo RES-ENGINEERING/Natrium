@@ -13,11 +13,10 @@ find_package(OpenGL REQUIRED)
 
 add_subdirectory(External/glfw)
 
-add_executable(Natrium
+add_executable(Natrium WIN32
     Source/main.cpp
     Source/Bionic/Creature/microbe.cpp
     Source/Math/Vector_2/vector_2.cpp
-    Source/WIndow_Manager/window_mngr.cpp
 
     ${IMGUI_DIR}/imgui.cpp
     ${IMGUI_DIR}/imgui_draw.cpp
@@ -29,6 +28,10 @@ add_executable(Natrium
     ${IMGUI_DIR}/backends/imgui_impl_opengl3.cpp
 )
 
+target_compile_definitions(Natrium PRIVATE
+    GRAPHICS_API_OPENGL_33
+)
+
 target_link_options(Natrium PRIVATE "LINKER:/ENTRY:mainCRTStartup")
 
 target_include_directories(Natrium PRIVATE
@@ -38,6 +41,9 @@ target_include_directories(Natrium PRIVATE
 
 target_link_libraries(Natrium PRIVATE
     glfw
+    OpenGL::GL
+    "${CMAKE_CURRENT_SOURCE_DIR}/External/raylib/lib/raylib.lib"
+    winmm
 )
 
 set_target_properties(Natrium PROPERTIES
