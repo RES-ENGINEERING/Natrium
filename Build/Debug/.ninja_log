@@ -13,7 +13,7 @@
 187	1140	8151535573806227	External/glfw/src/CMakeFiles/glfw.dir/window.c.obj	287addb62b3f6737
 235	1165	8151535574299905	External/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj	5313c768be3b8729
 198	1184	8151535573890170	External/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	ee4b7f5f3921771f
-1042	1228	8151535582329955	CMakeFiles/Natrium.dir/Source/main.cpp.obj	43c628d941ee3d74
+80	1262	8152085447265318	CMakeFiles/Natrium.dir/Source/main.cpp.obj	43c628d941ee3d74
 874	1603	8151535580649872	External/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	3c38cc3939553bf4
 908	1675	8151535580979892	External/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	ccac858d560bc429
 930	1711	8151535581199906	External/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	b2b3a7cbbba1a405
@@ -29,4 +29,11 @@
 1090	2451	8151535582849883	CMakeFiles/Natrium.dir/External/imgui/imgui_draw.cpp.obj	40531ba03978498c
 1140	2580	8151535583309896	CMakeFiles/Natrium.dir/External/imgui/imgui_widgets.cpp.obj	da7a9fc6127922f
 1064	2935	8151535582549916	CMakeFiles/Natrium.dir/External/imgui/imgui.cpp.obj	140bfb8f5f2a924a
-44	109	8151535844078205	CMakeFiles/Natrium.dir/Source/main.cpp.obj	43c628d941ee3d74
+86	800	8152085447325362	CMakeFiles/Natrium.dir/Source/Bionic/Creature/microbe.cpp.obj	33901b832e34f44d
+94	296	8152085447434876	CMakeFiles/Natrium.dir/Source/Math/Vector_2/vector_2.cpp.obj	bc9aa98272439dc8
+1262	1474	8152085459093812	N:/User_Documents/Coding/Git_Repositories/Natrium/Binary/Debug/Natrium.exe	a70a5129a08dba5a
+103	237	8152085447573574	CMakeFiles/Natrium.dir/Source/WIndow_Manager/window_mngr.cpp.obj	9aa625c2a9f5f205
+70	237	8152085882814337	CMakeFiles/Natrium.dir/Source/Math/Vector_2/vector_2.cpp.obj	bc9aa98272439dc8
+59	714	8152085882674105	CMakeFiles/Natrium.dir/Source/Bionic/Creature/microbe.cpp.obj	33901b832e34f44d
+51	1298	8152085882591566	CMakeFiles/Natrium.dir/Source/main.cpp.obj	43c628d941ee3d74
+1298	1487	8152085895064603	N:/User_Documents/Coding/Git_Repositories/Natrium/Binary/Debug/Natrium.exe	a70a5129a08dba5a

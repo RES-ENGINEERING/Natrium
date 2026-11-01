@@ -82,6 +82,17 @@ build CMakeFiles/Natrium.dir/Source/Math/Vector_2/vector_2.cpp.obj: CXX_COMPILER
   TARGET_PDB = N:\User_Documents\Coding\Git_Repositories\Natrium\Binary\Debug\Natrium.pdb
   TARGET_SUPPORT_DIR = CMakeFiles\Natrium.dir
 
+build CMakeFiles/Natrium.dir/Source/WIndow_Manager/window_mngr.cpp.obj: CXX_COMPILER__Natrium_unscanned_Debug N$:/User_Documents/Coding/Git_Repositories/Natrium/Source/WIndow_Manager/window_mngr.cpp || cmake_object_order_depends_target_Natrium
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Natrium.dir\Source\WIndow_Manager\window_mngr.cpp.obj.d
+  FLAGS = -O0 -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
+  INCLUDES = -IN:/User_Documents/Coding/Git_Repositories/Natrium/External -IN:/User_Documents/Coding/Git_Repositories/Natrium/Include -IN:/User_Documents/Coding/Git_Repositories/Natrium/External/glfw/include
+  OBJECT_DIR = CMakeFiles\Natrium.dir
+  OBJECT_FILE_DIR = CMakeFiles\Natrium.dir\Source\WIndow_Manager
+  TARGET_COMPILE_PDB = CMakeFiles\Natrium.dir\
+  TARGET_PDB = N:\User_Documents\Coding\Git_Repositories\Natrium\Binary\Debug\Natrium.pdb
+  TARGET_SUPPORT_DIR = CMakeFiles\Natrium.dir
+
 build CMakeFiles/Natrium.dir/External/imgui/imgui.cpp.obj: CXX_COMPILER__Natrium_unscanned_Debug N$:/User_Documents/Coding/Git_Repositories/Natrium/External/imgui/imgui.cpp || cmake_object_order_depends_target_Natrium
   CONFIG = Debug
   DEP_FILE = CMakeFiles\Natrium.dir\External\imgui\imgui.cpp.obj.d
@@ -167,10 +178,10 @@ build CMakeFiles/Natrium.dir/External/imgui/backends/imgui_impl_opengl3.cpp.obj:
 #############################################
 # Link the executable N:\User_Documents\Coding\Git_Repositories\Natrium\Binary\Debug\Natrium.exe
 
-build N$:/User_Documents/Coding/Git_Repositories/Natrium/Binary/Debug/Natrium.exe: CXX_EXECUTABLE_LINKER__Natrium_Debug CMakeFiles/Natrium.dir/Source/main.cpp.obj CMakeFiles/Natrium.dir/Source/Bionic/Creature/microbe.cpp.obj CMakeFiles/Natrium.dir/Source/Math/Vector_2/vector_2.cpp.obj CMakeFiles/Natrium.dir/External/imgui/imgui.cpp.obj CMakeFiles/Natrium.dir/External/imgui/imgui_draw.cpp.obj CMakeFiles/Natrium.dir/External/imgui/imgui_tables.cpp.obj CMakeFiles/Natrium.dir/External/imgui/imgui_widgets.cpp.obj CMakeFiles/Natrium.dir/External/imgui/imgui_demo.cpp.obj CMakeFiles/Natrium.dir/External/imgui/backends/imgui_impl_glfw.cpp.obj CMakeFiles/Natrium.dir/External/imgui/backends/imgui_impl_opengl3.cpp.obj | External/glfw/src/glfw3.lib || External/glfw/src/glfw3.lib
+build N$:/User_Documents/Coding/Git_Repositories/Natrium/Binary/Debug/Natrium.exe: CXX_EXECUTABLE_LINKER__Natrium_Debug CMakeFiles/Natrium.dir/Source/main.cpp.obj CMakeFiles/Natrium.dir/Source/Bionic/Creature/microbe.cpp.obj CMakeFiles/Natrium.dir/Source/Math/Vector_2/vector_2.cpp.obj CMakeFiles/Natrium.dir/Source/WIndow_Manager/window_mngr.cpp.obj CMakeFiles/Natrium.dir/External/imgui/imgui.cpp.obj CMakeFiles/Natrium.dir/External/imgui/imgui_draw.cpp.obj CMakeFiles/Natrium.dir/External/imgui/imgui_tables.cpp.obj CMakeFiles/Natrium.dir/External/imgui/imgui_widgets.cpp.obj CMakeFiles/Natrium.dir/External/imgui/imgui_demo.cpp.obj CMakeFiles/Natrium.dir/External/imgui/backends/imgui_impl_glfw.cpp.obj CMakeFiles/Natrium.dir/External/imgui/backends/imgui_impl_opengl3.cpp.obj | External/glfw/src/glfw3.lib || External/glfw/src/glfw3.lib
   CONFIG = Debug
   FLAGS = -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview
-  LINK_FLAGS = -Xlinker /subsystem:windows -Xlinker /ENTRY:mainCRTStartup -fuse-ld=lld
+  LINK_FLAGS = -Xlinker /subsystem:console -Xlinker /ENTRY:mainCRTStartup -fuse-ld=lld
   LINK_LIBRARIES = External/glfw/src/glfw3.lib  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames
   OBJECT_DIR = CMakeFiles\Natrium.dir
   POST_BUILD = cd .

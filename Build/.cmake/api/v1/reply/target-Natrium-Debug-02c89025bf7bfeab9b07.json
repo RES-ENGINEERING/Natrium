@@ -36,19 +36,19 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 31,
+				"line" : 32,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 38,
+				"line" : 39,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 33,
+				"line" : 34,
 				"parent" : 0
 			}
 		]
@@ -109,7 +109,8 @@
 				6,
 				7,
 				8,
-				9
+				9,
+				10
 			]
 		}
 	],
@@ -130,7 +131,7 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "-Xlinker /subsystem:windows",
+				"fragment" : "-Xlinker /subsystem:console",
 				"role" : "flags"
 			},
 			{
@@ -188,7 +189,8 @@
 				6,
 				7,
 				8,
-				9
+				9,
+				10
 			]
 		}
 	],
@@ -222,6 +224,16 @@
 			],
 			"compileGroupIndex" : 0,
 			"path" : "Source/Math/Vector_2/vector_2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"backtraces" : 
+			[
+				1
+			],
+			"compileGroupIndex" : 0,
+			"path" : "Source/WIndow_Manager/window_mngr.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
