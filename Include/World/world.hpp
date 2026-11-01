@@ -16,6 +16,8 @@ namespace Simulation
                     void Add_Microbe();
             };
 
-        void World::Update(float delta_time);
+            Bionic_Manager bionic_manager;
+
+            void Physics_Procession(float delta_time);
     };
 }
