@@ -4,36 +4,32 @@
 
 #include "Math/Vector_2/vector_2.hpp"
 #include "Bionic/Creature/microbe.hpp"
+#include "World/world.hpp"
 
 int main()
 {
+    // Raylib things
     SetConfigFlags(FLAG_WINDOW_RESIZABLE);
     InitWindow(700, 500, "Natrium");
     MaximizeWindow();
     SetTargetFPS(60);
 
-    Creature::Bionic::Microbe::Spatial_Properties microbe;
-    Creature::Bionic::Microbe::Spatial_Properties microbe_2;
-    microbe.position = Vector::Vector_2(200, 200);
-    microbe.radius = 5;
-    microbe_2.position = Vector::Vector_2(200, 200);
-    microbe_2.radius = 5;
+    Simulation::World world;
+
+    world.Create_Microbe();
+    world.Create_Microbe();
+
+    float microbe_position_x = world.microbes[0].spatial_properties.position.x = 200;
+    float microbe_position_y = world.microbes[0].spatial_properties.position.y = 200;
+    float microbe_2_position_x = world.microbes[1].spatial_properties.position.x = 500;
+    float microbe_2_position_y = world.microbes[1].spatial_properties.position.y = 500;
 
     while (!WindowShouldClose())
     {
-        for (int i = 0; i < 100; ++i) microbe_2.position.x += 0.01;
-        for (int i = 0; i < 100; ++i) microbe.position.x += 0.01;
-        for (int i = 0; i < 100; ++i) microbe.position.y += 0.01;
-
-        if (microbe_2.position.x == 1) microbe_2.position.x = 0;
-
         BeginDrawing();
-            ClearBackground(GetColor(0x181818FF));
-
-            DrawCircle(static_cast<int>(microbe.position.x), static_cast<int>(microbe.position.y), microbe.radius * 2, WHITE);
-            DrawCircle(static_cast<int>(microbe_2.position.x), static_cast<int>(microbe_2.position.y), microbe_2.radius * 2, MAROON);
-
-            DrawText("RAYLIB", 100, 100, 20, LIGHTGRAY);
+            ClearBackground(BLACK);
+            DrawCircle(static_cast<int>(microbe_position_x), static_cast<int>(microbe_position_y), 10, WHITE);
+            DrawCircle(static_cast<int>(microbe_2_position_x), static_cast<int>(microbe_2_position_y), 10, WHITE);
         EndDrawing();
     }
 

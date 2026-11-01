@@ -17,6 +17,7 @@ add_executable(Natrium WIN32
     Source/main.cpp
     Source/Bionic/Creature/microbe.cpp
     Source/Math/Vector_2/vector_2.cpp
+    Source/World/world.cpp
 
     ${IMGUI_DIR}/imgui.cpp
     ${IMGUI_DIR}/imgui_draw.cpp

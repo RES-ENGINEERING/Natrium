@@ -5,7 +5,7 @@
 
 #include "Math/Vector_2/vector_2.hpp"
 
-namespace Creature::Bionic::Microbe
+namespace Creature::Bionic
 {
     
 }
